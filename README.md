@@ -11,6 +11,6 @@ SCE-TTS를 사용하면 머신 러닝을 통해 누구나 자신의 목소리로
 더 자세한 정보는 [문서](https://sce-tts.github.io/) 페이지를 참고해주세요.
 
 인데 이 colab이 잘 작동하지 않아 오류들을 조금 수정함
-**작동중 세션 다시 시작이 떠도 무시할 것
-**파일위치를 잘 저장해야함
+작동중 세션 다시 시작이 떠도 무시할 것
+파일위치를 잘 저장해야함 filelist안에 filelist가 들어있을 수도 있음, 들어있으면 밖으로 빼주고 다시 실행 할것
 https://colab.research.google.com/drive/1u3vDOkiKtMq5fFq21sSeVBb9wmlN4GET?authuser=2#scrollTo=9Yim0zgJk3cR
