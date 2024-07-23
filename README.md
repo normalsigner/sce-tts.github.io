@@ -9,3 +9,8 @@ SCE-TTS를 사용하면 머신 러닝을 통해 누구나 자신의 목소리로
 누구나 자신만의 TTS를 만들 수 있도록 돕는 것을 목표로 하고 있습니다.
 
 더 자세한 정보는 [문서](https://sce-tts.github.io/) 페이지를 참고해주세요.
+
+인데 이 colab이 잘 작동하지 않아 오류들을 조금 수정함
+**작동중 세션 다시 시작이 떠도 무시할 것
+**파일위치를 잘 저장해야함
+https://colab.research.google.com/drive/1u3vDOkiKtMq5fFq21sSeVBb9wmlN4GET?authuser=2#scrollTo=9Yim0zgJk3cR
